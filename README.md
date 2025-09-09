@@ -3,6 +3,7 @@
 ## 1º Bimestre
 ### Atividade 1 - Simples (montagem de estrutura HTML)
 > Entrega para: 04/07
+
 Esta atividade tem por objetivo organizar o uso do Github, enviando uma tarefa com a organização do repositório inicial.
 Aqui será necessário usar:
 - estrutura básica do HTML
@@ -10,8 +11,11 @@ Aqui será necessário usar:
 - titulos
 - Github (fork, branch, add, commit, push, pull request)
 
+---
+
 ### Atividade 2 - Simples
 > Entrega para: 15/09
+
 **Título:** Minha Primeira Página Estruturada  
 **Objetivo:** Praticar o uso de títulos, parágrafos, listas e links em uma única página. 
 **Descrição:**  
@@ -27,6 +31,7 @@ Aqui será necessário usar:
 
 ### Atividade 3 - Media
 > Entrega para: 19/09
+
 **Título:** Lista de Compras  
 **Objetivo:** Trabalhar listas ordenadas e não ordenadas.  
 **Descrição:**  
@@ -41,6 +46,7 @@ Aqui será necessário usar:
 
 ### Atividade 4 - Média (montagem de estrutura HTML)
 > Entrega para: 23/09
+
 **Título:** Página de Links Favoritos  
 **Objetivo:** Trabalhar com links e imagens.  
 **Descrição:**  
@@ -55,6 +61,7 @@ Aqui será necessário usar:
 
 ### Atividade 5 - Complexa (montagem de estrutura HTML)
 > Entrega para: 30/09
+
 **Título:** Mini Currículo Online  
 **Objetivo:** Criar uma página completa usando diversos elementos básicos.  
 **Descrição:**  
