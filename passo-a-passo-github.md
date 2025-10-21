@@ -31,6 +31,8 @@ cd dp-aw
 git checkout -b joao-silva
 ```
 
+---
+
 ## 4. OPERACIONALIZANDO
 
 ### 4.1 Adicione ou edite os arquivos da tarefa
