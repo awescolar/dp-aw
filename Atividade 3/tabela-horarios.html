@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela de Horários</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #2c3e50;
+            padding: 10px;
+            text-align: center;
+        }
+        thead {
+            background-color: #2c3e50;
+            color: white;
+        }
+        tfoot {
+            background-color: #ecf0f1;
+            font-weight: bold;
+        }
+        tbody tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tabela de Horários</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Horário</th>
+                <th>Segunda</th>
+                <th>Terça</th>
+                <th>Quarta</th>
+                <th>Quinta</th>
+                <th>Sexta</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>07:00 - 08:00</td>
+                <td rowspan="2">Matemática</td>
+                <td>Português</td>
+                <td rowspan="2">História</td>
+                <td>Educação Física</td>
+                <td>Geografia</td>
+            </tr>
+            <tr>
+                <td>08:00 - 09:00</td>
+                <td>Ciências</td>
+                <td>Inglês</td>
+                <td rowspan="2">Arte</td>
+            </tr>
+            <tr>
+                <td>09:00 - 10:00</td>
+                <td colspan="2">Intervalo</td>
+                <td>Redação</td>
+                <td>Física</td>
+            </tr>
+            <tr>
+                <td>10:00 - 11:00</td>
+                <td>Biologia</td>
+                <td rowspan="2">Matemática</td>
+                <td>Geografia</td>
+                <td>Química</td>
+                <td>Português</td>
+            </tr>
+            <tr>
+                <td>11:00 - 12:00</td>
+                <td>Filosofia</td>
+                <td colspan="3">Projeto Interdisciplinar</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td colspan="6">Horário sujeito a alterações</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <footer style="text-align: center; margin-top: 30px;">
+        <p>© 2025 - Desenvolvido por [Seu Nome]</p>
+    </footer>
+</body>
+</html>
